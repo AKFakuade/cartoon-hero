@@ -1,0 +1,21 @@
+	body
+	{
+		background-color: lightgoldenrodyellow;
+	}
+	h1{
+			font-size: 30px;
+			color: skyblue;
+		}
+		h2{
+			font-size: 30px;
+			color: orangered;
+		}
+		.big
+		{
+			font-size: 50px;
+			color: forestgreen;
+		}
+		.uppercase
+		{
+			text-transform: uppercase;}
+			
